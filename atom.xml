@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>六记のBlog</title>
+  <icon>https://acg-q.github.io/icon.png</icon>
+  <subtitle>许六记的随笔</subtitle>
+  <link href="https://acg-q.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://acg-q.github.io/"/>
+  <updated>2024-01-20T12:00:32.190Z</updated>
+  <id>https://acg-q.github.io/</id>
+  
+  <author>
+    <name>六记</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>[Github项目] 甩锅侠</title>
+    <link href="https://acg-q.github.io/abbrlink/64d331f9.html"/>
+    <id>https://acg-q.github.io/abbrlink/64d331f9.html</id>
+    <published>2024-01-20T06:58:15.555Z</published>
+    <updated>2024-01-20T12:00:32.190Z</updated>
+    
+    
+    <summary type="html">把你的错误甩锅给他人</summary>
+    
+    
+    
+    <category term="Github" scheme="https://acg-q.github.io/categories/Github/"/>
+    
+    
+    <category term="甩锅" scheme="https://acg-q.github.io/tags/%E7%94%A9%E9%94%85/"/>
+    
+    <category term="有趣的项目" scheme="https://acg-q.github.io/tags/%E6%9C%89%E8%B6%A3%E7%9A%84%E9%A1%B9%E7%9B%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Mega网盘不限速下载</title>
+    <link href="https://acg-q.github.io/abbrlink/c833a74a.html"/>
+    <id>https://acg-q.github.io/abbrlink/c833a74a.html</id>
+    <published>2024-01-10T13:27:22.478Z</published>
+    <updated>2024-01-10T13:39:15.730Z</updated>
+    
+    
+    <summary type="html">MegaDownloader 介绍 MegaDownloader 是一个用于从Mega.nz下载文件的免费开源应用程序。Mega.nz是一个云存储服务，提供大容量的免费和付费存储空间。MegaDownloader旨在简化从Mega.nz下载文件的过程，并提供一些额外的功能。请注意，使用第三方应用程序可能违反Mega.nz的使用条款，因此使用前请务必查阅相关条款并确保合规。 界面   下载 Mega...</summary>
+    
+    
+    
+    <category term="软件" scheme="https://acg-q.github.io/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="mega" scheme="https://acg-q.github.io/tags/mega/"/>
+    
+    <category term="不限速" scheme="https://acg-q.github.io/tags/%E4%B8%8D%E9%99%90%E9%80%9F/"/>
+    
+    <category term="MegaDownloader" scheme="https://acg-q.github.io/tags/MegaDownloader/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Translator++</title>
+    <link href="https://acg-q.github.io/abbrlink/7ad0c06.html"/>
+    <id>https://acg-q.github.io/abbrlink/7ad0c06.html</id>
+    <published>2024-01-10T12:40:57.612Z</published>
+    <updated>2024-01-10T14:06:20.244Z</updated>
+    
+    
+    <summary type="html">译者++ 介绍 一种结合了机器翻译的便利性和手动翻译的工具 Translator++ 目前可以处理RPG Maker XP、VX、VX Ace、MV 和 Wolf RPG 编辑器引擎 界面   下载 Translator++ Ver. 6.1.10 下载渠道(付费): 官网 Translator++ Ver. 5.3.31 下载渠道(免费):  官网 Translator++5.3.31B_i32...</summary>
+    
+    
+    
+    <category term="软件" scheme="https://acg-q.github.io/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="游戏翻译" scheme="https://acg-q.github.io/tags/%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91/"/>
+    
+    <category term="Translator++" scheme="https://acg-q.github.io/tags/Translator/"/>
+    
+    <category term="RPG Maker" scheme="https://acg-q.github.io/tags/RPG-Maker/"/>
+    
+    <category term="VX" scheme="https://acg-q.github.io/tags/VX/"/>
+    
+    <category term="VX Ace" scheme="https://acg-q.github.io/tags/VX-Ace/"/>
+    
+    <category term="MV" scheme="https://acg-q.github.io/tags/MV/"/>
+    
+    <category term="Wolf RPG" scheme="https://acg-q.github.io/tags/Wolf-RPG/"/>
+    
+    <category term="Ren&#39;Py" scheme="https://acg-q.github.io/tags/Ren-Py/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>文件蜈蚣自动激活程序</title>
+    <link href="https://acg-q.github.io/abbrlink/2336bb27.html"/>
+    <id>https://acg-q.github.io/abbrlink/2336bb27.html</id>
+    <published>2024-01-09T14:56:25.083Z</published>
+    <updated>2024-01-09T14:56:25.083Z</updated>
+    
+    
+    <summary type="html">&lt;p&gt;&lt;a href=&quot;https://github.com/ACG-Q/UserPyPackage/tree/activation_codes_filecxx&quot;&gt;ACG-Q&amp;#x2F;UserPyPackage at activation_codes_filecxx&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;activation-codes-filecxx&quot;&gt;&lt;a href=&quot;#activation-codes-filecxx&quot; class=&quot;headerlink&quot; title=&quot;activation_codes_filecxx&quot;&gt;&lt;/a&gt;activation_codes_filecxx&lt;/h1&gt;&lt;h2 id=&quot;介绍&quot;&gt;&lt;a href=&quot;#介绍&quot; class=&quot;headerlink&quot; title=&quot;介绍&quot;&gt;&lt;/a&gt;介绍&lt;/h2&gt;&lt;p&gt;参考 &lt;a href=&quot;https://github.com/Uber-Eins/FileCentipede-Automatic-Activation&quot;&gt;Uber-Eins&amp;#x2F;FileCentipede-Automatic-Activation: 一个简单的文件蜈蚣(半)自动激活程序&lt;/a&gt; 完成的GUI版自动激活工具&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="软件" scheme="https://acg-q.github.io/categories/%E8%BD%AF%E4%BB%B6/"/>
+    
+    
+    <category term="FileCentipede" scheme="https://acg-q.github.io/tags/FileCentipede/"/>
+    
+    <category term="激活" scheme="https://acg-q.github.io/tags/%E6%BF%80%E6%B4%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>自动化部署Hexo博客</title>
+    <link href="https://acg-q.github.io/abbrlink/920264e4.html"/>
+    <id>https://acg-q.github.io/abbrlink/920264e4.html</id>
+    <published>2021-09-14T07:02:34.000Z</published>
+    <updated>2024-01-20T12:00:56.583Z</updated>
+    
+    
+    <summary type="html">懒人改变世界</summary>
+    
+    
+    
+    <category term="自动化" scheme="https://acg-q.github.io/categories/%E8%87%AA%E5%8A%A8%E5%8C%96/"/>
+    
+    
+    <category term="博客" scheme="https://acg-q.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="Hexo" scheme="https://acg-q.github.io/tags/Hexo/"/>
+    
+    <category term="Github" scheme="https://acg-q.github.io/tags/Github/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Kali Linux 虚拟机开启SSH服务</title>
+    <link href="https://acg-q.github.io/abbrlink/3f03cfce.html"/>
+    <id>https://acg-q.github.io/abbrlink/3f03cfce.html</id>
+    <published>2021-09-08T05:38:43.000Z</published>
+    <updated>2021-09-08T05:38:43.000Z</updated>
+    
+    
+    <summary type="html">关于虚拟机开启SSH服务的疑难解答</summary>
+    
+    
+    
+    <category term="uncategorized" scheme="https://acg-q.github.io/categories/uncategorized/"/>
+    
+    
+    <category term="SSH" scheme="https://acg-q.github.io/tags/SSH/"/>
+    
+    <category term="虚拟机" scheme="https://acg-q.github.io/tags/%E8%99%9A%E6%8B%9F%E6%9C%BA/"/>
+    
+    <category term="Kali LInux" scheme="https://acg-q.github.io/tags/Kali-LInux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>代码压缩的两种方法</title>
+    <link href="https://acg-q.github.io/abbrlink/85a288c1.html"/>
+    <id>https://acg-q.github.io/abbrlink/85a288c1.html</id>
+    <published>2021-09-07T05:21:52.000Z</published>
+    <updated>2021-09-07T05:21:52.000Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;代码压缩的两种方法&quot;&gt;&lt;a href=&quot;#代码压缩的两种方法&quot; class=&quot;headerlink&quot; title=&quot;代码压缩的两种方法&quot;&gt;&lt;/a&gt;代码压缩的两种方法&lt;/h1&gt;&lt;h2 id=&quot;Gulp压缩&quot;&gt;&lt;a href=&quot;#Gulp压缩&quot; class=&quot;headerlink&quot; title=&quot;Gulp压缩&quot;&gt;&lt;/a&gt;Gulp压缩&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;最常用的方法&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;第一步-安装Gulp的各种小功能模块&quot;&gt;&lt;a href=&quot;#第一步-安装Gulp的各种小功能模块&quot; class=&quot;headerlink&quot; title=&quot;第一步: 安装Gulp的各种小功能模块&quot;&gt;&lt;/a&gt;第一步: 安装Gulp的各种小功能模块&lt;/h3&gt;&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;npm install gulp gulp-htmlclean gulp-htmlmin gulp-minify-css gulp-uglify gulp-imagemin --save&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;安装额外的功能模块&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&quot;highlight shell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;npm install gulp-debug gulp-clean-css gulp-changed gulp-if gulp-plumber gulp-babel babel-preset-es2015 del @babel/core --save&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="uncategorized" scheme="https://acg-q.github.io/categories/uncategorized/"/>
+    
+    
+    <category term="博客" scheme="https://acg-q.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="美化" scheme="https://acg-q.github.io/tags/%E7%BE%8E%E5%8C%96/"/>
+    
+    <category term="hexo" scheme="https://acg-q.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>奇怪的继承</title>
+    <link href="https://acg-q.github.io/abbrlink/ad2743d7.html"/>
+    <id>https://acg-q.github.io/abbrlink/ad2743d7.html</id>
+    <published>2020-11-20T01:40:38.000Z</published>
+    <updated>2024-01-20T12:00:56.583Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;python2中才有经典类，没有继承object的类都是经典类。&lt;br&gt;python3中都是新式类，继承object类的都是新式类，py3中默认继承object类。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;Python3中的继承&quot;&gt;&lt;a href=&quot;#Python3中的继承&quot; class=&quot;headerlink&quot; title=&quot;Python3中的继承&quot;&gt;&lt;/a&gt;Python3中的继承&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;钻石继承&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;graph TD&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;A--&amp;gt;|B继承A| B&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;A--&amp;gt;|C继承A| C&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;B--&amp;gt;|D继承B| D&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;C--&amp;gt;|D继承B| D&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;F[钻石继承]&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+
+&lt;figure class=&quot;highlight python&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;7&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;8&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;9&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;10&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title class_&quot;&gt;A&lt;/span&gt;:&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;title function_&quot;&gt;h&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;self&lt;/span&gt;):&lt;span class=&quot;built_in&quot;&gt;print&lt;/span&gt;(&lt;span class=&quot;string&quot;&gt;&amp;#x27;a&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title class_&quot;&gt;B&lt;/span&gt;(&lt;span class=&quot;title class_ inherited__&quot;&gt;A&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;title function_&quot;&gt;h&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;self&lt;/span&gt;):&lt;span class=&quot;built_in&quot;&gt;print&lt;/span&gt;(&lt;span class=&quot;string&quot;&gt;&amp;#x27;b&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title class_&quot;&gt;C&lt;/span&gt;(&lt;span class=&quot;title class_ inherited__&quot;&gt;A&lt;/span&gt;):&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;title function_&quot;&gt;h&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;self&lt;/span&gt;):&lt;span class=&quot;built_in&quot;&gt;print&lt;/span&gt;(&lt;span class=&quot;string&quot;&gt;&amp;#x27;c&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;&lt;span class=&quot;keyword&quot;&gt;class&lt;/span&gt; &lt;span class=&quot;title class_&quot;&gt;D&lt;/span&gt;(B,C):&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;    &lt;span class=&quot;keyword&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;title function_&quot;&gt;h&lt;/span&gt;(&lt;span class=&quot;params&quot;&gt;self&lt;/span&gt;):&lt;span class=&quot;built_in&quot;&gt;print&lt;/span&gt;(&lt;span class=&quot;string&quot;&gt;&amp;#x27;d&amp;#x27;&lt;/span&gt;)&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;d = D()&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;d.h()&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;</summary>
+    
+    
+    
+    <category term="uncategorized" scheme="https://acg-q.github.io/categories/uncategorized/"/>
+    
+    
+    <category term="学习" scheme="https://acg-q.github.io/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>论打着招聘的名义让你参加培训的公司</title>
+    <link href="https://acg-q.github.io/abbrlink/52bb8352.html"/>
+    <id>https://acg-q.github.io/abbrlink/52bb8352.html</id>
+    <published>2020-08-27T08:20:52.000Z</published>
+    <updated>2020-08-27T08:20:52.000Z</updated>
+    
+    
+    <summary type="html">&lt;h2 id=&quot;培训机构-，不不不😡，说他是培训机构都是侮辱培训机构了&quot;&gt;&lt;a href=&quot;#培训机构-，不不不😡，说他是培训机构都是侮辱培训机构了&quot; class=&quot;headerlink&quot; title=&quot;培训机构(?)，不不不😡，说他是培训机构都是侮辱培训机构了&amp;#96;&amp;#96;&quot;&gt;&lt;/a&gt;培训机构(?)，不不不😡，说他是培训机构都是侮辱培训机构了&amp;#96;&amp;#96;&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;目前所接到的骗子公司均来自智联招聘&lt;/p&gt;
+&lt;p&gt;让我们开始鞭尸吧&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;①成都市万息科技有限公司&quot;&gt;&lt;a href=&quot;#①成都市万息科技有限公司&quot; class=&quot;headerlink&quot; title=&quot;①成都市万息科技有限公司&quot;&gt;&lt;/a&gt;①成都市万息科技有限公司&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;我™才注册智联招聘不到1个小时&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;公司消息如下：&quot;&gt;&lt;a href=&quot;#公司消息如下：&quot; class=&quot;headerlink&quot; title=&quot;公司消息如下：&quot;&gt;&lt;/a&gt;公司消息如下：&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;官网：&lt;a href=&quot;http://www.wanxikeji.cn/&quot;&gt;http://www.wanxikeji.cn&lt;/a&gt; 【&lt;strong&gt;这骗子公司™竟然还有官网，真厉害！&lt;/strong&gt;】&lt;/p&gt;
+&lt;p&gt;公司地址：四川省成都市武侯区益州大道北段1597号·成都高新科技孵化园区9号园区E座&lt;/p&gt;
+&lt;p&gt;法人代表：刘定武&lt;/p&gt;
+&lt;p&gt;注册资本：1000万元人民币【你没看错，就是1千万人民币】&lt;/p&gt;
+&lt;p&gt;成立时间：2003-09-22&lt;/p&gt;
+&lt;p&gt;公司规模：20-99人【03年注册的公司，整到现在20年连100人都没有】&lt;/p&gt;
+&lt;p&gt;统一信用代码：915101067528401849&lt;/p&gt;
+&lt;/blockquote&gt;</summary>
+    
+    
+    
+    <category term="多彩生活" scheme="https://acg-q.github.io/categories/%E5%A4%9A%E5%BD%A9%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="招聘" scheme="https://acg-q.github.io/tags/%E6%8B%9B%E8%81%98/"/>
+    
+    <category term="骗子" scheme="https://acg-q.github.io/tags/%E9%AA%97%E5%AD%90/"/>
+    
+    <category term="杂谈" scheme="https://acg-q.github.io/tags/%E6%9D%82%E8%B0%88/"/>
+    
+    <category term="唠叨" scheme="https://acg-q.github.io/tags/%E5%94%A0%E5%8F%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Adobe CS6系列软件</title>
+    <link href="https://acg-q.github.io/abbrlink/ec2c6733.html"/>
+    <id>https://acg-q.github.io/abbrlink/ec2c6733.html</id>
+    <published>2020-08-18T10:11:01.000Z</published>
+    <updated>2020-08-18T10:11:01.000Z</updated>
+    
+    
+    <summary type="html">&lt;h1 id=&quot;Adobe-CS6全系列下载&quot;&gt;&lt;a href=&quot;#Adobe-CS6全系列下载&quot; class=&quot;headerlink&quot; title=&quot;Adobe CS6全系列下载&quot;&gt;&lt;/a&gt;Adobe CS6全系列下载&lt;/h1&gt;&lt;h2 id=&quot;「Win」Adobe-Fireworks-CS6&quot;&gt;&lt;a href=&quot;#「Win」Adobe-Fireworks-CS6&quot; class=&quot;headerlink&quot; title=&quot;「Win」Adobe Fireworks CS6&quot;&gt;&lt;/a&gt;「Win」Adobe Fireworks CS6&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;网盘特征&lt;/th&gt;
+&lt;th&gt;网盘地址&lt;/th&gt;
+&lt;th&gt;提取码&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;百度云&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://pan.baidu.com/s/1bUxtV6S4CVm4wcddIZ4FKQ&quot;&gt;https://pan.baidu.com/s/1bUxtV6S4CVm4wcddIZ4FKQ&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;fjx8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&quot;「Mac」Adobe-Fireworks-CS6&quot;&gt;&lt;a href=&quot;#「Mac」Adobe-Fireworks-CS6&quot; class=&quot;headerlink&quot; title=&quot;「Mac」Adobe Fireworks CS6&quot;&gt;&lt;/a&gt;「Mac」Adobe Fireworks CS6&lt;/h2&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;网盘特征&lt;/th&gt;
+&lt;th&gt;网盘地址&lt;/th&gt;
+&lt;th&gt;提取码&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;百度云&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://pan.baidu.com/s/1fZEcZfSBF_ZnBr2O_-njFA&quot;&gt;https://pan.baidu.com/s/1fZEcZfSBF_ZnBr2O_-njFA&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;sre8&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&quot;「Win-Mac」Adobe-CS6-嬴政天下版&quot;&gt;&lt;a href=&quot;#「Win-Mac」Adobe-CS6-嬴政天下版&quot; class=&quot;headerlink&quot; title=&quot;「Win+Mac」Adobe CS6 嬴政天下版&quot;&gt;&lt;/a&gt;「Win+Mac」Adobe CS6 嬴政天下版&lt;/h2&gt;&lt;h3 id=&quot;集成产品&quot;&gt;&lt;a href=&quot;#集成产品&quot; class=&quot;headerlink&quot; title=&quot;集成产品&quot;&gt;&lt;/a&gt;集成产品&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Adobe Acrobat DC 2019&lt;/li&gt;
+&lt;li&gt;Adobe After Effects 2019&lt;/li&gt;
+&lt;li&gt;Adobe Animate 2019&lt;/li&gt;
+&lt;li&gt;Adobe Audition 2019&lt;/li&gt;
+&lt;li&gt;Adobe Bridge CC 2019&lt;/li&gt;
+&lt;li&gt;Adobe Character Animator 2019&lt;/li&gt;
+&lt;li&gt;Adobe Dimension 2&lt;/li&gt;
+&lt;li&gt;Adobe Dreamweaver 2019&lt;/li&gt;
+&lt;li&gt;Adobe Illustrator 2019&lt;/li&gt;
+&lt;li&gt;Adobe InCopy 2019&lt;/li&gt;
+&lt;li&gt;Adobe InDesign 2019&lt;/li&gt;
+&lt;li&gt;Adobe Lightroom Classic CC 8&lt;/li&gt;
+&lt;li&gt;Adobe Media Encoder 2019&lt;/li&gt;
+&lt;li&gt;Adobe Photoshop CC 2019&lt;/li&gt;
+&lt;li&gt;Adobe Prelude 2019&lt;/li&gt;
+&lt;li&gt;Adobe Premiere Pro 2019&lt;/li&gt;
+&lt;li&gt;Adobe XD&lt;/li&gt;
+&lt;li&gt;Adobe Creative Cloud&lt;/li&gt;
+&lt;li&gt;Creative Cloud Sync&lt;/li&gt;
+&lt;li&gt;Adobe Creative Cloud Experience&lt;/li&gt;
+&lt;li&gt;Creative Cloud Libraries&lt;/li&gt;
+&lt;li&gt;Adobe Camera Raw&lt;/li&gt;
+&lt;/ul&gt;</summary>
+    
+    
+    
+    <category term="uncategorized" scheme="https://acg-q.github.io/categories/uncategorized/"/>
+    
+    
+    <category term="软件" scheme="https://acg-q.github.io/tags/%E8%BD%AF%E4%BB%B6/"/>
+    
+    <category term="破解" scheme="https://acg-q.github.io/tags/%E7%A0%B4%E8%A7%A3/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>[记录]BT之家各域名</title>
+    <link href="https://acg-q.github.io/abbrlink/49e2ed86.html"/>
+    <id>https://acg-q.github.io/abbrlink/49e2ed86.html</id>
+    <published>2020-04-25T07:01:36.000Z</published>
+    <updated>2020-04-25T07:01:36.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;不用看了, 都死掉了&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;BT之家官网论坛：&lt;strong&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="uncategorized" scheme="https://acg-q.github.io/categories/uncategorized/"/>
+    
+    
+    <category term="域名备份" scheme="https://acg-q.github.io/tags/%E5%9F%9F%E5%90%8D%E5%A4%87%E4%BB%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记一次程序汉化过程</title>
+    <link href="https://acg-q.github.io/abbrlink/92df1153.html"/>
+    <id>https://acg-q.github.io/abbrlink/92df1153.html</id>
+    <published>2020-04-16T11:54:53.000Z</published>
+    <updated>2020-10-17T13:08:00.000Z</updated>
+    
+    
+    <summary type="html">PowerToys已经出了官方中文，文章终结💔</summary>
+    
+    
+    
+    <category term="多彩生活" scheme="https://acg-q.github.io/categories/%E5%A4%9A%E5%BD%A9%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="软件汉化" scheme="https://acg-q.github.io/tags/%E8%BD%AF%E4%BB%B6%E6%B1%89%E5%8C%96/"/>
+    
+    <category term="微软小工具" scheme="https://acg-q.github.io/tags/%E5%BE%AE%E8%BD%AF%E5%B0%8F%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="PowerToys" scheme="https://acg-q.github.io/tags/PowerToys/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>推荐wordpress主题</title>
+    <link href="https://acg-q.github.io/abbrlink/9d9da441.html"/>
+    <id>https://acg-q.github.io/abbrlink/9d9da441.html</id>
+    <published>2020-04-13T13:31:42.000Z</published>
+    <updated>2024-01-20T12:00:56.583Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;版权归&lt;strong&gt;主题作者&lt;/strong&gt;所有&lt;/p&gt;
+&lt;p&gt;所有资源来源于网络，版权属于&lt;strong&gt;原作者&lt;/strong&gt;所有！仅供&lt;strong&gt;学习参考&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;01-【免费开源】smarty-hankin&quot;&gt;&lt;a href=&quot;#01-【免费开源】smarty-hankin&quot; class=&quot;headerlink&quot; title=&quot;01 【免费开源】smarty_hankin&quot;&gt;&lt;/a&gt;01 【免费开源】smarty_hankin&lt;/h2&gt;&lt;blockquote&gt;
+&lt;p&gt;主题来自于&lt;a href=&quot;https://www.hankin.cn/1440.html&quot;&gt;hankin&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;如果网址打不开，请自行百度&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;主题示意图&quot;&gt;&lt;a href=&quot;#主题示意图&quot; class=&quot;headerlink&quot; title=&quot;主题示意图&quot;&gt;&lt;/a&gt;主题示意图&lt;/h3&gt;&lt;p&gt;&lt;img src=&quot;https://gitee.com/theme-smarty/smarty_hankin/raw/master/screenshot.jpg&quot; alt=&quot;smarty_hankin&quot;&gt;&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="uncategorized" scheme="https://acg-q.github.io/categories/uncategorized/"/>
+    
+    
+    <category term="wp主题" scheme="https://acg-q.github.io/tags/wp%E4%B8%BB%E9%A2%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>斐讯K2路由器的救砖之旅-编程器救砖</title>
+    <link href="https://acg-q.github.io/abbrlink/3d253b0b.html"/>
+    <id>https://acg-q.github.io/abbrlink/3d253b0b.html</id>
+    <published>2020-04-06T10:48:19.000Z</published>
+    <updated>2020-04-06T10:48:19.000Z</updated>
+    
+    
+    <summary type="html">&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;之前K2路由不是刷了号称怎么刷都不死的不死鸟Bread，结果在切换固件的时候，貌似刷出问题了，就重刷了几次，再然后就没有然后了，斐讯K2路由器宣告GG。&lt;/p&gt;
+&lt;p&gt;这不最近疫情还没结束，再网上翻到几篇关于K2救砖的帖子，反正都差不多，就是拆闪存-&amp;gt;用编程器烧录固件-&amp;gt;再把闪存焊上去就ok了，很简单对吧。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="多彩生活" scheme="https://acg-q.github.io/categories/%E5%A4%9A%E5%BD%A9%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="刷机" scheme="https://acg-q.github.io/tags/%E5%88%B7%E6%9C%BA/"/>
+    
+    <category term="斐讯K2" scheme="https://acg-q.github.io/tags/%E6%96%90%E8%AE%AFK2/"/>
+    
+    <category term="救砖" scheme="https://acg-q.github.io/tags/%E6%95%91%E7%A0%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>影视资源收集</title>
+    <link href="https://acg-q.github.io/abbrlink/32cf7813.html"/>
+    <id>https://acg-q.github.io/abbrlink/32cf7813.html</id>
+    <published>2020-04-05T10:07:54.000Z</published>
+    <updated>2024-01-11T01:37:43.976Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;所有资源均来自于&lt;strong&gt;网络&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h3&gt;&lt;p&gt;众所周知，互联网精神就是共享资源。&lt;br&gt;而有很多所谓免费的影视资源站，充斥着数不过来的被加上广告水印的劣质视频，作为一个业余的影视爱好者而言，这无疑是非常不爽的。&lt;/p&gt;
+&lt;h3 id=&quot;百度云资源如下&quot;&gt;&lt;a href=&quot;#百度云资源如下&quot; class=&quot;headerlink&quot; title=&quot;百度云资源如下&quot;&gt;&lt;/a&gt;百度云资源如下&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;不定时&lt;strong&gt;更新&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&quot;【影-剧】名侦探柯南&quot;&gt;&lt;a href=&quot;#【影-剧】名侦探柯南&quot; class=&quot;headerlink&quot; title=&quot;【影&amp;#x2F;剧】名侦探柯南&quot;&gt;&lt;/a&gt;【影&amp;#x2F;剧】名侦探柯南&lt;/h4&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;名称&lt;/th&gt;
+&lt;th&gt;百度云&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;名侦探柯南剧场版全20集&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://pan.baidu.com/s/19b04zS4zGA81_P7ooECl2Q&quot;&gt;百度云&lt;/a&gt; 提取码：pyko&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;名侦探柯南全837集&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://pan.baidu.com/s/1hs0AAzy&quot;&gt;百度云&lt;/a&gt; 提取码：2x88&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h4 id=&quot;【影】哆啦A梦&quot;&gt;&lt;a href=&quot;#【影】哆啦A梦&quot; class=&quot;headerlink&quot; title=&quot;【影】哆啦A梦&quot;&gt;&lt;/a&gt;【影】哆啦A梦&lt;/h4&gt;&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;名称&lt;/th&gt;
+&lt;th&gt;百度云&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;哆啦À梦[国粤日三语]系列39部&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://pan.baidu.com/s/1goInfgFHegrhf7wmJN37-w&quot;&gt;百度云&lt;/a&gt; 提取码：rkkf&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;哆啦À梦 2005-2023年度新番合集&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://pan.quark.cn/s/8eb41c94a201&quot;&gt;夸克网盘&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;哆啦À梦 2005-2023年度新番合集&lt;/td&gt;
+&lt;td&gt;&lt;a href=&quot;https://www.aliyundrive.com/s/HZXSjUVP4su&quot;&gt;阿里网盘&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;</summary>
+    
+    
+    
+    <category term="收集癖" scheme="https://acg-q.github.io/categories/%E6%94%B6%E9%9B%86%E7%99%96/"/>
+    
+    
+    <category term="影视" scheme="https://acg-q.github.io/tags/%E5%BD%B1%E8%A7%86/"/>
+    
+    <category term="百度云" scheme="https://acg-q.github.io/tags/%E7%99%BE%E5%BA%A6%E4%BA%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Fences破解版</title>
+    <link href="https://acg-q.github.io/abbrlink/42e9c371.html"/>
+    <id>https://acg-q.github.io/abbrlink/42e9c371.html</id>
+    <published>2020-03-27T04:26:59.000Z</published>
+    <updated>2020-03-27T04:26:59.000Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;当前版本为 3.0.9.11版&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;软件介绍&quot;&gt;&lt;a href=&quot;#软件介绍&quot; class=&quot;headerlink&quot; title=&quot;软件介绍&quot;&gt;&lt;/a&gt;软件介绍&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Stardock Fences&lt;/strong&gt; 是著名的 &lt;strong&gt;Stardock&lt;/strong&gt; 公司新推出的一款软件，用来分类和组织桌面上的图标。它可以将不同的图标放到不同的半透明“容器”当中，你还可以移动和拉伸这个“容器”。这样将图标分类以后，你的桌面再也不会看起来一团糟了。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;fences&lt;/strong&gt;也被称为栅栏桌面，是著名的&lt;strong&gt;Stardock&lt;/strong&gt;公司推出的一款软件，由该公司的首席技术构架师&lt;strong&gt;Jeff Bargmann&lt;/strong&gt;开发的，用来分类和组织桌面上的图标一款软件。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="uncategorized" scheme="https://acg-q.github.io/categories/uncategorized/"/>
+    
+    
+    <category term="桌面管理" scheme="https://acg-q.github.io/tags/%E6%A1%8C%E9%9D%A2%E7%AE%A1%E7%90%86/"/>
+    
+    <category term="Fences" scheme="https://acg-q.github.io/tags/Fences/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>小米路由器POST登录分析及实现过程</title>
+    <link href="https://acg-q.github.io/abbrlink/5b142f8.html"/>
+    <id>https://acg-q.github.io/abbrlink/5b142f8.html</id>
+    <published>2020-03-25T14:12:15.000Z</published>
+    <updated>2024-01-20T12:00:56.583Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;前情提要:当前分析的样本为 &lt;strong&gt;小米路由器千兆版&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;分析POST提交数据&quot;&gt;&lt;a href=&quot;#分析POST提交数据&quot; class=&quot;headerlink&quot; title=&quot;分析POST提交数据&quot;&gt;&lt;/a&gt;分析POST提交数据&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;通过Google浏览器,使用F12(开发者工具)中的Network爬取post数据&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;图1.获取到的post数据&lt;/p&gt;
+&lt;img src=&quot;https://s1.ax1x.com/2020/04/28/JI9Etg.png&quot; alt=&quot;POST数据&quot; style=&quot;zoom:80%;&quot; /&gt;
+
+&lt;h4 id=&quot;分析可知&quot;&gt;&lt;a href=&quot;#分析可知&quot; class=&quot;headerlink&quot; title=&quot;分析可知&quot;&gt;&lt;/a&gt;分析可知&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;username&lt;/strong&gt;为admin[明文]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;password&lt;/strong&gt;为**************[密文,当然这里也不可能写出来]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;logtype&lt;/strong&gt;为2[明文]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;nonce&lt;/strong&gt;为生成的文本,为0_MAC地址_不清楚__不清楚&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;分析源代码&quot;&gt;&lt;a href=&quot;#分析源代码&quot; class=&quot;headerlink&quot; title=&quot;分析源代码&quot;&gt;&lt;/a&gt;分析源代码&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;路由器登录地址为 &lt;strong&gt;192.168.31.1&lt;/strong&gt; 或者 &lt;strong&gt;miwifi.com&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;通过Google浏览器,使用Ctrl+U(查看源代码)&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="多彩生活" scheme="https://acg-q.github.io/categories/%E5%A4%9A%E5%BD%A9%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="小米路由器" scheme="https://acg-q.github.io/tags/%E5%B0%8F%E7%B1%B3%E8%B7%AF%E7%94%B1%E5%99%A8/"/>
+    
+    <category term="POST分析" scheme="https://acg-q.github.io/tags/POST%E5%88%86%E6%9E%90/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>搞机之旅-Samsung Galaxy|C5|Lineage OS|Android 8.1</title>
+    <link href="https://acg-q.github.io/abbrlink/ad431137.html"/>
+    <id>https://acg-q.github.io/abbrlink/ad431137.html</id>
+    <published>2020-03-04T03:34:57.000Z</published>
+    <updated>2020-03-04T03:34:57.000Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;LineageOS14包来自&lt;a href=&quot;https://forum.xda-developers.com/android/development/rom-lineageos-14-1-samsung-galaxy-c5-t3585794&quot;&gt;XDA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LineageOS15包来自&lt;a href=&quot;https://forum.xda-developers.com/android/development/rom-lineageos-15-1-samsung-galaxy-c5-t3828557&quot;&gt;XDA&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;LineageOS16包来自&lt;a href=&quot;https://forum.xda-developers.com/android/development/unofficial-rom-lineageos-16-0-samsung-t3935875&quot;&gt;XDA&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&quot;搞机必备&quot;&gt;&lt;a href=&quot;#搞机必备&quot; class=&quot;headerlink&quot; title=&quot;搞机必备&quot;&gt;&lt;/a&gt;搞机必备&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;下载本人打包好的文件&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.lanzoux.com/i9z7y6b&quot;&gt;蓝奏云&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;del&gt;以及C5000ZHU1CRJ5 五件套&lt;/del&gt;【仅限16和15】&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;最后也就是ROM包&lt;br&gt;&lt;a href=&quot;https://vasy.ru/CM14/lineage-14.1-20170908-UNOFFICIAL-c5lte.zip&quot;&gt;LineageOS 14.1 for Samsung Galaxy C5&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://vasy.ru/LineageOS-15/c5lte/lineage-15.1-20190322-UNOFFICIAL-c5lte.zip&quot;&gt;LineageOS 15.1 for Samsung Galaxy C5&lt;/a&gt;&lt;br&gt;&lt;a href=&quot;https://vasy.ru/LineageOS-16/c5lte/lineage-16.0-20191016-UNOFFICIAL-c5lte.zip&quot;&gt;LineageOS 16.0 for Samsung Galaxy C5&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;准备完成后，进入正题&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&quot;开始搞机&quot;&gt;&lt;a href=&quot;#开始搞机&quot; class=&quot;headerlink&quot; title=&quot;开始搞机&quot;&gt;&lt;/a&gt;开始搞机&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;思路如下：解锁→刷TWRP→刷ROM包→完成！！&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;安装CROM Service APK【三星解锁工具】&lt;ul&gt;
+&lt;li&gt;路径：samsung_sm_c5000所有文件&amp;#x2F;CROM Service解锁&amp;#x2F;CROM Service[三星解锁].apk&lt;/li&gt;
+&lt;li&gt;&lt;img src=&quot;https://s1.ax1x.com/2020/04/28/JISzLV.png&quot; alt=&quot;CROM解锁&quot; style=&quot;zoom: 33%;&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;解除FRP 锁【也就是查找我的手机】&lt;/li&gt;
+&lt;/ol&gt;</summary>
+    
+    
+    
+    <category term="多彩生活" scheme="https://acg-q.github.io/categories/%E5%A4%9A%E5%BD%A9%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="刷机" scheme="https://acg-q.github.io/tags/%E5%88%B7%E6%9C%BA/"/>
+    
+    <category term="三星" scheme="https://acg-q.github.io/tags/%E4%B8%89%E6%98%9F/"/>
+    
+    <category term="SM-C5000" scheme="https://acg-q.github.io/tags/SM-C5000/"/>
+    
+    <category term="GALAXY C5" scheme="https://acg-q.github.io/tags/GALAXY-C5/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>六记de杂货铺</title>
+    <link href="https://acg-q.github.io/abbrlink/64cfbea0.html"/>
+    <id>https://acg-q.github.io/abbrlink/64cfbea0.html</id>
+    <published>2020-01-19T14:59:09.000Z</published>
+    <updated>2020-01-19T14:59:09.000Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;六记の杂货铺&quot;&gt;&lt;a href=&quot;#六记の杂货铺&quot; class=&quot;headerlink&quot; title=&quot;六记の杂货铺&quot;&gt;&lt;/a&gt;六记の杂货铺&lt;/h3&gt;&lt;p&gt;由永硕E盘搭建索引目录网站&lt;/p&gt;
+&lt;p&gt;&lt;a</summary>
+        
+      
+    
+    
+    
+    <category term="多彩生活" scheme="https://acg-q.github.io/categories/%E5%A4%9A%E5%BD%A9%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="杂货铺" scheme="https://acg-q.github.io/tags/%E6%9D%82%E8%B4%A7%E9%93%BA/"/>
+    
+    <category term="分享站" scheme="https://acg-q.github.io/tags/%E5%88%86%E4%BA%AB%E7%AB%99/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Renpy专用游戏汉化软件合集</title>
+    <link href="https://acg-q.github.io/abbrlink/4ba8f988.html"/>
+    <id>https://acg-q.github.io/abbrlink/4ba8f988.html</id>
+    <published>2020-01-17T11:06:49.000Z</published>
+    <updated>2020-01-17T11:06:49.000Z</updated>
+    
+    
+    <summary type="html">&lt;blockquote&gt;
+&lt;p&gt;软件均来自网络&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h2&gt;&lt;p&gt;​	越来越多的Ren·Py引擎开发的视觉游戏涌入网络，而这一大部分游戏都需要翻译，但是翻译游戏毕竟是由人工翻译完成的，需要时间。有不少的人忍不住就是想玩最新的，因此各个汉化组也就开发了一个个针对Ren&amp;#96;Py引擎开发的游戏的翻译软件。&lt;/p&gt;
+&lt;h2 id=&quot;了解Ren-Py游戏&quot;&gt;&lt;a href=&quot;#了解Ren-Py游戏&quot; class=&quot;headerlink&quot; title=&quot;了解Ren&amp;#96;Py游戏&quot;&gt;&lt;/a&gt;了解Ren&amp;#96;Py游戏&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Ren’Py&lt;/strong&gt;几乎支持&lt;strong&gt;所有视觉小说&lt;/strong&gt;所应该具有的功能，包括分支故事、存储和加载游戏、回退到之前故事的存储点、多样性的场景转换等。 &lt;strong&gt;Ren’Py&lt;/strong&gt;拥有类似电影剧本的语法，并且能够允许高级用户编写Python代码来增加新的功能。除此之外，游戏引擎内附的出版工具能够为&lt;strong&gt;脚本加密&lt;/strong&gt;以及&lt;strong&gt;压缩游戏素材&lt;/strong&gt;以防止盗版。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ren’Py&lt;/strong&gt;建构于Pygame，它基于Python和SDL。 &lt;strong&gt;Ren’Py&lt;/strong&gt;官方支持Windows、Linux以及较新版Mac OS X，并可通过Arch Linux、Ubuntu、Debian或Gentoo的软件包管理系统安装Linux包中。它也已被移植到Android、OpenBSD以及iOS 7预发布版本。&lt;/p&gt;</summary>
+    
+    
+    
+    <category term="uncategorized" scheme="https://acg-q.github.io/categories/uncategorized/"/>
+    
+    
+    <category term="汉化" scheme="https://acg-q.github.io/tags/%E6%B1%89%E5%8C%96/"/>
+    
+    <category term="renpy游戏" scheme="https://acg-q.github.io/tags/renpy%E6%B8%B8%E6%88%8F/"/>
+    
+  </entry>
+  
+</feed>

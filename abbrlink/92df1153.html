@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="zh"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"><title>记一次程序汉化过程 - 六记のBlog</title><link rel="manifest" href="/manifest.json"><meta name="application-name" content="六记のBlog"><meta name="msapplication-TileImage" content="/resource/img/favicon/favicon.ico"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-title" content="六记のBlog"><meta name="apple-mobile-web-app-status-bar-style" content="default"><meta name="description" content="PowerToys已经出了官方中文，文章终结💔"><meta property="og:type" content="blog"><meta property="og:title" content="记一次程序汉化过程"><meta property="og:url" content="https://acg-q.github.io/abbrlink/92df1153.html"><meta property="og:site_name" content="六记のBlog"><meta property="og:description" content="PowerToys已经出了官方中文，文章终结💔"><meta property="og:locale" content="zh_CN"><meta property="og:image" content="https://s1.ax1x.com/2020/04/28/JIS7dS.png"><meta property="og:image" content="https://s1.ax1x.com/2020/04/28/JISqiQ.png"><meta property="og:image" content="https://s1.ax1x.com/2020/04/28/JISHIg.png"><meta property="og:image" content="https://s1.ax1x.com/2020/04/28/JISLGj.png"><meta property="og:image" content="https://s1.ax1x.com/2020/04/28/JISORs.png"><meta property="og:image" content="https://s1.ax1x.com/2020/04/28/JISTZ8.gif"><meta property="og:image" content="https://s1.ax1x.com/2020/05/22/YL4QLd.gif"><meta property="article:published_time" content="2020-04-16T11:54:53.000Z"><meta property="article:modified_time" content="2020-10-17T13:08:00.000Z"><meta property="article:author" content="六记"><meta property="article:tag" content="软件汉化"><meta property="article:tag" content="微软小工具"><meta property="article:tag" content="PowerToys"><meta property="twitter:card" content="summary"><meta property="twitter:image:src" content="https://s1.ax1x.com/2020/04/28/JIS7dS.png"><script type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","mainEntityOfPage":{"@type":"WebPage","@id":"https://acg-q.github.io/abbrlink/92df1153.html"},"headline":"记一次程序汉化过程","image":["https://s1.ax1x.com/2020/04/28/JIS7dS.png","https://s1.ax1x.com/2020/04/28/JISqiQ.png","https://s1.ax1x.com/2020/04/28/JISHIg.png","https://s1.ax1x.com/2020/04/28/JISLGj.png","https://s1.ax1x.com/2020/04/28/JISORs.png","https://s1.ax1x.com/2020/04/28/JISTZ8.gif","https://s1.ax1x.com/2020/05/22/YL4QLd.gif"],"datePublished":"2020-04-16T11:54:53.000Z","dateModified":"2020-10-17T13:08:00.000Z","author":{"@type":"Person","name":"六记"},"publisher":{"@type":"Organization","name":"六记のBlog","logo":{"@type":"ImageObject","url":"https://acg-q.github.io/resource/img/favicon.png"}},"description":"PowerToys已经出了官方中文，文章终结💔"}</script><link rel="canonical" href="https://acg-q.github.io/abbrlink/92df1153.html"><link rel="alternate" href="/atom.xml" title="六记のBlog" type="application/atom+xml"><link rel="icon" href="/resource/img/favicon/favicon.ico"><link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.0.0/css/all.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/highlight.js@11.7.0/styles/atom-one-light.css"><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;600&amp;family=Source+Code+Pro"><link rel="stylesheet" href="/css/default.css"><style>body>.footer,body>.navbar,body>.section{opacity:0}</style><!--!--><!--!--><!--!--><!--!--><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lightgallery@1.10.0/dist/css/lightgallery.min.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/css/justifiedGallery.min.css"><!--!--><!--!--><style>.pace{-webkit-pointer-events:none;pointer-events:none;-webkit-user-select:none;-moz-user-select:none;user-select:none}.pace-inactive{display:none}.pace .pace-progress{background:#3273dc;position:fixed;z-index:2000;top:0;right:100%;width:100%;height:2px}</style><script src="https://cdn.jsdelivr.net/npm/pace-js@1.2.4/pace.min.js"></script><!--!--><!--!--><!-- hexo injector head_end start --><script>
+  (function () {
+      function switchTab() {
+          if (!location.hash) {
+            return;
+          }
+
+          const id = '#' + CSS.escape(location.hash.substring(1));
+          const $tabMenu = document.querySelector(`.tabs a[href="${id}"]`);
+          if (!$tabMenu) {
+            return;
+          }
+
+          const $tabMenuContainer = $tabMenu.parentElement.parentElement;
+          Array.from($tabMenuContainer.children).forEach($menu => $menu.classList.remove('is-active'));
+          Array.from($tabMenuContainer.querySelectorAll('a'))
+              .map($menu => document.getElementById($menu.getAttribute("href").substring(1)))
+              .forEach($content => $content.classList.add('is-hidden'));
+
+          if ($tabMenu) {
+              $tabMenu.parentElement.classList.add('is-active');
+          }
+          const $activeTab = document.querySelector(id);
+          if ($activeTab) {
+              $activeTab.classList.remove('is-hidden');
+          }
+      }
+      switchTab();
+      window.addEventListener('hashchange', switchTab, false);
+  })();
+  </script><!-- hexo injector head_end end --><meta name="generator" content="Hexo 7.1.0"><style>.darkmode--activated{--body-bg-color:#282828;--content-bg-color:#333;--card-bg-color:#555;--text-color:#ccc;--blockquote-color:#bbb;--link-color:#ccc;--link-hover-color:#eee;--brand-color:#ddd;--brand-hover-color:#ddd;--table-row-odd-bg-color:#282828;--table-row-hover-bg-color:#363636;--menu-item-bg-color:#555;--btn-default-bg:#222;--btn-default-color:#ccc;--btn-default-border-color:#555;--btn-default-hover-bg:#666;--btn-default-hover-color:#ccc;--btn-default-hover-border-color:#666;--highlight-background:#282b2e;--highlight-foreground:#a9b7c6;--highlight-gutter-background:#34393d;--highlight-gutter-foreground:#9ca9b6}.darkmode--activated img{opacity:.75}.darkmode--activated img:hover{opacity:.9}.darkmode--activated code{color:#69dbdc;background:0 0}button.darkmode-toggle{z-index:9999}.darkmode-ignore,img{display:flex!important}.beian img{display:inline-block!important}</style></head><body class="is-2-column"><nav class="navbar navbar-main"><div class="container navbar-container"><div class="navbar-brand justify-content-center"><a class="navbar-item navbar-logo" href="/"><img src="/resource/img/favicon.png" alt="六记のBlog" height="28"></a></div><div class="navbar-menu"><div class="navbar-start"><a class="navbar-item" href="/">首页</a><a class="navbar-item" href="/archives">归档</a><a class="navbar-item" href="/categories">分类</a><a class="navbar-item" href="/tags">标签</a><a class="navbar-item" href="/friends">友链</a><a class="navbar-item" href="/talks">说说</a><a class="navbar-item" href="/about">关于</a><a class="navbar-item" href="/404">公益404</a></div><div class="navbar-end"><a class="navbar-item search" title="搜索" href="javascript:;"><i class="fas fa-search"></i></a></div></div></div></nav><section class="section"><div class="container"><div class="columns"><div class="column order-2 column-main is-8-tablet is-8-desktop is-8-widescreen"><div class="card"><article class="card-content article" role="article"><div class="article-meta is-size-7 is-uppercase level is-mobile"><div class="level-left"><span class="level-item"><time dateTime="2020-04-16T11:54:53.000Z" title="4/16/2020, 7:54:53 PM">2020-04-16</time>发表</span><span class="level-item"><time dateTime="2020-10-17T13:08:00.000Z" title="10/17/2020, 9:08:00 PM">2020-10-17</time>更新</span><span class="level-item"><a class="link-muted" href="/categories/%E5%A4%9A%E5%BD%A9%E7%94%9F%E6%B4%BB/">多彩生活</a></span><span class="level-item">6 分钟读完 (大约834个字)</span></div></div><h1 class="title is-3 is-size-4-mobile">记一次程序汉化过程</h1><div class="content"><blockquote>
+<p>结束了!<br>PowerToys已经出了官方中文</p>
+</blockquote>
+<h3 id="记一次软件汉化的关键过程"><a href="#记一次软件汉化的关键过程" class="headerlink" title="记一次软件汉化的关键过程"></a>记一次软件汉化的关键过程</h3><blockquote>
+<p>汉化目标：PowerToys(微软小工具)</p>
+</blockquote>
+<h4 id="第一步：Radialix软件汉化"><a href="#第一步：Radialix软件汉化" class="headerlink" title="第一步：Radialix软件汉化"></a>第一步：Radialix软件汉化</h4><p>直接汉化<strong>PowerToys.exe</strong>，<strong>FancyZonesEditor.exe(PowerToys\modules)<strong>，</strong>ImageResizer.exe(PowerToys\modules)</strong></p>
+<table>
+<thead>
+<tr>
+<th>程序名称</th>
+<th>新键本地化方案&gt;&gt;目标设置</th>
+<th>原因</th>
+<th>汉化对象</th>
+</tr>
+</thead>
+<tbody><tr>
+<td><strong>PowerToys.exe</strong></td>
+<td><strong>创建本地化文件</strong></td>
+<td></td>
+<td>托盘菜单汉化</td>
+</tr>
+<tr>
+<td><strong>FancyZonesEditor.exe</strong></td>
+<td><strong>创建多语言本地化文件</strong></td>
+<td>明明本地化(创建本地化文件)成功了的，修改文件名称就失效了</td>
+<td>程序界面汉化</td>
+</tr>
+<tr>
+<td><strong>ImageResizer.exe</strong></td>
+<td><strong>创建本地化文件</strong></td>
+<td>其实也可以不汉化，因为软件自带多语言</td>
+<td>程序界面汉化</td>
+</tr>
+</tbody></table>
+<h4 id="第二步：js汉化"><a href="#第二步：js汉化" class="headerlink" title="第二步：js汉化"></a>第二步：js汉化</h4><p>直接使用<strong>文本编辑器</strong>进行修改<strong>bundle.js(PowerToys\settings-html\dist)</strong></p>
+<p>通过<strong>查找&#x2F;替换</strong>进行汉化，不过只能汉化以部分(选项一【<strong>PowerToys General Settings</strong>(常规设置)】<strong>以及</strong>弹窗菜单)，选项一中剩下没汉化的需要其余的汉化成功后，就会被自动替换。</p>
+<p><img src="https://s1.ax1x.com/2020/04/28/JIS7dS.png" alt="弹窗菜单"></p>
+<span id="more"></span>
+
+<h4 id="第三步：dll汉化"><a href="#第三步：dll汉化" class="headerlink" title="第三步：dll汉化"></a>第三步：dll汉化</h4><p>修改<strong>fancyzones.dll</strong>可以汉化选项二【<strong>FancyZones Settings</strong>(多区域设置)】以及汉化选项一(参考上面)的第一项选择。</p>
+<p><img src="https://s1.ax1x.com/2020/04/28/JISqiQ.png" alt="汉化DLL"></p>
+<p>修改<strong>powerpreview.dll</strong>可以汉化选项三【<strong>File Explorer Settings</strong>(预览设置)】以及汉化选项一(参考上面)的第二项选择。</p>
+<p><img src="https://s1.ax1x.com/2020/04/28/JISHIg.png" alt="汉化DLL"></p>
+<p>修改<strong>ImageResizerExt.dll</strong>可以汉化选项四【<strong>Image Resizer Settings</strong>(图片大小调整设置)】以及汉化选项一(参考上面)的第三项选择。</p>
+<blockquote>
+<p>只需要汉化简体中文一项字符串即可,当然能汉化完也可以</p>
+</blockquote>
+<p><img src="https://s1.ax1x.com/2020/04/28/JISLGj.png" alt="汉化DLL"></p>
+<p>修改<strong>PowerRenameExt.dll</strong>可以汉化选项四【<strong>PowerRename Settings</strong>(重命名设置)】以及汉化选项一(参考上面)的第四项选择。</p>
+<p><img src="https://s1.ax1x.com/2020/04/28/JISORs.png" alt="汉化DLL"></p>
+<p>修改<strong>shortcut_guide.dll</strong>可以汉化选项四【<strong>Shortcut Guide Settings</strong>(图片大小调整设置)】以及汉化选项一(参考上面)的第五项选择。</p>
+<p>修改<strong>WindowWalker.dll</strong>可以汉化选项四【<strong>Window Walker Settings</strong>(名称切换窗口设置)】以及汉化选项一(参考上面)的第六项选择。</p>
+<blockquote>
+<p>这两项非常修改量很小，就没截图</p>
+</blockquote>
+<h4 id="汉化展示"><a href="#汉化展示" class="headerlink" title="汉化展示"></a>汉化展示</h4><img src="https://s1.ax1x.com/2020/04/28/JISTZ8.gif" alt="0.16" style="zoom:50%;" />
+
+<img src="https://s1.ax1x.com/2020/05/22/YL4QLd.gif" alt="0.18" style="zoom:50%;" />
+
+<h3 id="汉化包下载地址"><a href="#汉化包下载地址" class="headerlink" title="汉化包下载地址"></a>汉化包下载地址</h3><p><a target="_blank" rel="noopener" href="https://liuji.lanzouu.com/iPQPZhickgd">PowerToys 0.23.2 汉化包 and 安装包.7z</a><br><a target="_blank" rel="noopener" href="https://liuji.lanzouu.com/ivJNNh6nfsj">PowerToys 0.23.0 汉化包 and 安装包.7z</a><br><a target="_blank" rel="noopener" href="https://liuji.lanzouu.com/i7JZGge26le">PowerToys 0.21.1汉化包+安装包.7z</a><br><a target="_blank" rel="noopener" href="https://liuji.lanzouu.com/it090fcsqhi">PowerToys 0.20.1 汉化包+安装包.7z</a><br><a target="_blank" rel="noopener" href="https://liuji.lanzouu.com/inP3jf75oij">PowerToys 0.20.0 汉化包 安装包.7z</a><br><a target="_blank" rel="noopener" href="https://liuji.lanzouu.com/iGpdbepinwh">PowerToys 0.19.2汉化包+安装包.7z.zip</a><br><a target="_blank" rel="noopener" href="https://liuji.lanzouu.com/iKW7Gel8c8d">PowerToys 0.19.1 汉化包+安装包.7z</a><br><a target="_blank" rel="noopener" href="https://liuji.lanzouu.com/i5g6be73oib">PowerToys 0.19.0汉化包+安装包.7z</a><br><a target="_blank" rel="noopener" href="https://liuji.lanzouu.com/iMaE8dejvbi">PowerToys 0.18.2汉化包+安装包.7z</a><br><a target="_blank" rel="noopener" href="https://liuji.lanzouu.com/il8ZPdbfaod">PowerToys.7z</a><br><a target="_blank" rel="noopener" href="https://liuji.lanzouu.com/iczpgve">PowerToys汉化步骤.7z</a><br><a target="_blank" rel="noopener" href="https://liuji.lanzouu.com/icz4zhi">PowerToys 0.18.1汉化包+安装包.7z</a><br><a target="_blank" rel="noopener" href="https://liuji.lanzouu.com/icvszef">PowerToys 0.18汉化包+安装包.7z</a><br><a target="_blank" rel="noopener" href="https://liuji.lanzouu.com/icgre9i">PowerToys 0.17汉化包+安装包.7z</a><br><a target="_blank" rel="noopener" href="https://liuji.lanzouu.com/ibips0h">PowerToys 0.16.1汉化包.7z</a><br><a target="_blank" rel="noopener" href="https://liuji.lanzouu.com/ibhsrgj">PowerToys 0.16.1汉化包.7z</a></p>
+</div><div class="article-licensing box"><div class="licensing-title"><p>记一次程序汉化过程</p><p><a href="https://acg-q.github.io/abbrlink/92df1153.html">https://acg-q.github.io/abbrlink/92df1153.html</a></p></div><div class="licensing-meta level is-mobile"><div class="level-left"><div class="level-item is-narrow"><div><h6>作者</h6><p>六记</p></div></div><div class="level-item is-narrow"><div><h6>发布于</h6><p>2020-04-16</p></div></div><div class="level-item is-narrow"><div><h6>更新于</h6><p>2020-10-17</p></div></div><div class="level-item is-narrow"><div><h6>许可协议</h6><p><a class="icons" rel="noopener" target="_blank" title="Creative Commons" href="https://creativecommons.org/"><i class="icon fab fa-creative-commons"></i></a><a class="icons" rel="noopener" target="_blank" title="Attribution" href="https://creativecommons.org/licenses/by/4.0/"><i class="icon fab fa-creative-commons-by"></i></a><a class="icons" rel="noopener" target="_blank" title="Noncommercial" href="https://creativecommons.org/licenses/by-nc/4.0/"><i class="icon fab fa-creative-commons-nc"></i></a></p></div></div></div></div></div><div class="article-tags is-size-7 mb-4"><span class="mr-2">#</span><a class="link-muted mr-2" rel="tag" href="/tags/%E8%BD%AF%E4%BB%B6%E6%B1%89%E5%8C%96/">软件汉化</a><a class="link-muted mr-2" rel="tag" href="/tags/%E5%BE%AE%E8%BD%AF%E5%B0%8F%E5%B7%A5%E5%85%B7/">微软小工具</a><a class="link-muted mr-2" rel="tag" href="/tags/PowerToys/">PowerToys</a></div><!--!--></article></div><!--!--><nav class="post-navigation mt-4 level is-mobile"><div class="level-start"><a class="article-nav-prev level level-item link-muted" href="/abbrlink/49e2ed86.html"><i class="level-item fas fa-chevron-left"></i><span class="level-item">[记录]BT之家各域名</span></a></div><div class="level-end"><a class="article-nav-next level level-item link-muted" href="/abbrlink/9d9da441.html"><span class="level-item">推荐wordpress主题</span><i class="level-item fas fa-chevron-right"></i></a></div></nav><div class="card"><div class="card-content"><h3 class="title is-5">评论</h3><div id="lv-container" data-id="city" data-uid="MTAyMC81OTM4Ny8zNTg0OQ=="><script>(function(d, s) {
+            var j, e = d.getElementsByTagName(s)[0];
+
+            if (typeof LivereTower === 'function') { return; }
+
+            j = d.createElement(s);
+            j.src = 'https://cdn-city.livere.com/js/embed.dist.js';
+            j.async = true;
+
+            e.parentNode.insertBefore(j, e);
+        })(document, 'script');</script><noscript>Please activate JavaScript for write a comment in LiveRe</noscript></div></div></div></div><!--!--><div class="column column-right is-4-tablet is-4-desktop is-4-widescreen  order-3 is-sticky"><!--!--><div class="card widget" data-type="recent-posts"><div class="card-content"><h3 class="menu-label">最新文章</h3><article class="media"><div class="media-content"><p class="date"><time dateTime="2024-01-20T06:58:15.555Z">2024-01-20</time></p><p class="title"><a href="/abbrlink/64d331f9.html">[Github项目] 甩锅侠</a></p><p class="categories"><a href="/categories/Github/">Github</a></p></div></article><article class="media"><div class="media-content"><p class="date"><time dateTime="2024-01-10T13:27:22.478Z">2024-01-10</time></p><p class="title"><a href="/abbrlink/c833a74a.html">Mega网盘不限速下载</a></p><p class="categories"><a href="/categories/%E8%BD%AF%E4%BB%B6/">软件</a></p></div></article><article class="media"><div class="media-content"><p class="date"><time dateTime="2024-01-10T12:40:57.612Z">2024-01-10</time></p><p class="title"><a href="/abbrlink/7ad0c06.html">Translator++</a></p><p class="categories"><a href="/categories/%E8%BD%AF%E4%BB%B6/">软件</a></p></div></article><article class="media"><div class="media-content"><p class="date"><time dateTime="2024-01-09T14:56:25.083Z">2024-01-09</time></p><p class="title"><a href="/abbrlink/2336bb27.html">文件蜈蚣自动激活程序</a></p><p class="categories"><a href="/categories/%E8%BD%AF%E4%BB%B6/">软件</a></p></div></article><article class="media"><div class="media-content"><p class="date"><time dateTime="2021-09-14T07:02:34.000Z">2021-09-14</time></p><p class="title"><a href="/abbrlink/920264e4.html">自动化部署Hexo博客</a></p><p class="categories"><a href="/categories/%E8%87%AA%E5%8A%A8%E5%8C%96/">自动化</a></p></div></article></div></div></div></div></div></section><footer class="footer"><div class="container"><div class="level"><div class="level-start"><a class="footer-logo is-block mb-2" href="/"><img src="/resource/img/favicon.png" alt="六记のBlog" height="28"></a><p class="is-size-7"><span>&copy; 2024 六记</span>  Powered by <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a> &amp; <a href="https://github.com/ppoffice/hexo-theme-icarus" target="_blank" rel="noopener">Icarus</a></p><p class="is-size-7">用💖发电</p></div><div class="level-end"><div class="field has-addons"><p class="control"><a class="button is-transparent is-large" target="_blank" rel="noopener" title="Creative Commons" href="https://creativecommons.org/"><i class="fab fa-creative-commons"></i></a></p><p class="control"><a class="button is-transparent is-large" target="_blank" rel="noopener" title="Attribution 4.0 International" href="https://creativecommons.org/licenses/by/4.0/"><i class="fab fa-creative-commons-by"></i></a></p><p class="control"><a class="button is-transparent is-large" target="_blank" rel="noopener" title="Download on GitHub" href="https://github.com/ppoffice/hexo-theme-icarus"><i class="fab fa-github"></i></a></p></div></div></div></div></footer><script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script><script src="https://cdn.jsdelivr.net/npm/moment@2.22.2/min/moment-with-locales.min.js"></script><script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.4/dist/clipboard.min.js" defer></script><script>moment.locale("zh-cn");</script><script>var IcarusThemeSettings = {
+            article: {
+                highlight: {
+                    clipboard: true,
+                    fold: 'unfolded'
+                }
+            }
+        };</script><script src="/js/column.js"></script><script src="/js/animation.js"></script><a id="back-to-top" title="回到顶端" href="javascript:;"><i class="fas fa-chevron-up"></i></a><script src="/js/back_to_top.js" defer></script><!--!--><!--!--><!--!--><script src="https://cdn.jsdelivr.net/npm/cookieconsent@3.1.1/build/cookieconsent.min.js" defer></script><script>window.addEventListener("load", () => {
+      window.cookieconsent.initialise({
+        type: "info",
+        theme: "edgeless",
+        static: false,
+        position: "bottom-left",
+        content: {
+          message: "此网站使用Cookie来改善您的体验。",
+          dismiss: "知道了！",
+          allow: "允许使用Cookie",
+          deny: "拒绝",
+          link: "了解更多",
+          policy: "Cookie政策",
+          href: "https://www.liuji.ml/",
+        },
+        palette: {
+          popup: {
+            background: "#edeff5",
+            text: "#838391"
+          },
+          button: {
+            background: "#4b81e8"
+          },
+        },
+      });
+    });</script><script src="https://cdn.jsdelivr.net/npm/lightgallery@1.10.0/dist/js/lightgallery.min.js" defer></script><script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/js/jquery.justifiedGallery.min.js" defer></script><script>window.addEventListener("load", () => {
+            if (typeof $.fn.lightGallery === 'function') {
+                $('.article').lightGallery({ selector: '.gallery-item' });
+            }
+            if (typeof $.fn.justifiedGallery === 'function') {
+                if ($('.justified-gallery > p > .gallery-item').length) {
+                    $('.justified-gallery > p > .gallery-item').unwrap();
+                }
+                $('.justified-gallery').justifiedGallery();
+            }
+        });</script><!--!--><!--!--><!--!--><!--!--><!--!--><script src="/js/main.js" defer></script><div class="searchbox"><div class="searchbox-container"><div class="searchbox-header"><div class="searchbox-input-container"><input class="searchbox-input" type="text" placeholder="想要查找什么..."></div><a class="searchbox-close" href="javascript:;">×</a></div><div class="searchbox-body"></div></div></div><script src="/js/insight.js" defer></script><script>document.addEventListener('DOMContentLoaded', function () {
+            loadInsight({"contentUrl":"/content.json"}, {"hint":"想要查找什么...","untitled":"(无标题)","posts":"文章","pages":"页面","categories":"分类","tags":"标签"});
+        });</script></body></html>

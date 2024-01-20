@@ -1,0 +1,25 @@
+/* 设置博客背景 */
+body {
+  background-image: url("/resource/img/background.png");
+}
+/* 添加 昼夜切换按钮 样式 */
+button.darkmode-toggle {
+  width: 2rem;
+  height: 2rem;
+  left: -1rem;
+  opacity: 0.3;
+}
+button.darkmode-toggle:hover {
+  left: 0;
+  opacity: 1;
+}
+button.darkmode-toggle:before,
+button.darkmode-toggle:after {
+  background-color: #333;
+}
+button.darkmode-toggle:before {
+  top: 5px;
+}
+button.darkmode-toggle:after {
+  bottom: 5px;
+}
